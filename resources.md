@@ -1,0 +1,1 @@
+0. [Firefox and FireCAT as a Platform for Ethical Hacking ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2013/11/firefox-and-firecat-as-a-platform-for-ethical-hacking/ "")
