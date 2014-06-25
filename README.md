@@ -3,3 +3,5 @@
 2. [Wait, Chrome Dev Tools could do THAT? - YouTube](https://www.youtube.com/watch?v=BaneWEqNcpE "")
 3. [Healthcare.gov: Is There A Problem Here?: Healthcare.gov](http://blog.isthereaproblemhere.com/search/label/Healthcare.gov "")
 4. [GTAC 2007: Ed Keyes - Sufficiently Advanced Monitoring is indistinguishable from testing - YouTube](https://www.youtube.com/watch?v=uSo8i1N18oc "")
+5. [Google Test Automation Conference — Google Developers](https://developers.google.com/google-test-automation-conference/ "")
+6. [Google Testing Blog](http://googletesting.blogspot.com/ "")
