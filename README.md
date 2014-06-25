@@ -2,3 +2,4 @@
 1. [Wait, Chrome DevTools could do THAT? - Slide Deck](https://www.igvita.com/slides/2012/devtools-tips-and-tricks/#1 "")
 2. [Wait, Chrome Dev Tools could do THAT? - YouTube](https://www.youtube.com/watch?v=BaneWEqNcpE "")
 3. [Healthcare.gov: Is There A Problem Here?: Healthcare.gov](http://blog.isthereaproblemhere.com/search/label/Healthcare.gov "")
+4. [GTAC 2007: Ed Keyes - Sufficiently Advanced Monitoring is indistinguishable from testing - YouTube](https://www.youtube.com/watch?v=uSo8i1N18oc "")
