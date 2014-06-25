@@ -5,3 +5,4 @@
 4. [GTAC 2007: Ed Keyes - Sufficiently Advanced Monitoring is indistinguishable from testing - YouTube](https://www.youtube.com/watch?v=uSo8i1N18oc "")
 5. [Google Test Automation Conference — Google Developers](https://developers.google.com/google-test-automation-conference/ "")
 6. [Google Testing Blog](http://googletesting.blogspot.com/ "")
+7. [Continuous Delivery is Mainstream: @noahsussman: Infinite Undo](http://infiniteundo.com/post/71540519157/continuous-delivery-is-mainstream "")
