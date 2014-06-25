@@ -6,3 +6,5 @@
 5. [Google Test Automation Conference — Google Developers](https://developers.google.com/google-test-automation-conference/ "")
 6. [Google Testing Blog](http://googletesting.blogspot.com/ "")
 7. [Continuous Delivery is Mainstream: @noahsussman: Infinite Undo](http://infiniteundo.com/post/71540519157/continuous-delivery-is-mainstream "")
+8. [test2.Wikipedia](https://test2.wikipedia.org/wiki/Main_Page "")
+9. [Wikipedia Beta environment](http://en.wikipedia.beta.wmflabs.org/wiki/Main_Page "")
